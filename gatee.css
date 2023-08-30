@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    background-color: rgba(47, 213, 224, 0.926);
+}
+button{
+    margin-top: 10%;
+    color:black;
+    background-color: rgb(163, 219, 91);
+    height: 50px;
+    width: 120px;
+    border-radius: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bolder;
+    background-color: rgb(156, 9, 92);
+    position: relative;
+}
+img{
+    margin:auto;
+    height: 256px;
+    width: 256px;
+}
+#off{
+     margin-left:20%;
+}
+button:hover{
+    color: aliceblue;
+    background-color:darkred;
+    cursor: pointer;
+}
